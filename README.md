@@ -1,2 +1,2 @@
 # axshare
-Axshare
+Axshare Pages
